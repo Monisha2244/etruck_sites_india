@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Kharar Truck Lay-by",
+    "lat": 30.74,
+    "lon": 76.63,
+    "distance": "~0 km from Chandigarh",
+    "highway": "NH 205A",
+    "amenities": "Parking, dhaba",
+    "power": "Kharar Grid (~2 km)"
+  },
+  {
+    "name": "Kurali Freight Point",
+    "lat": 30.84,
+    "lon": 76.57,
+    "distance": "~10 km from Chandigarh",
+    "highway": "NH 205A",
+    "amenities": "Truck rest, loading bay",
+    "power": "Substation nearby"
+  },
+  {
+    "name": "Bassi Pathana Halt Zone",
+    "lat": 30.69,
+    "lon": 76.4,
+    "distance": "~30 km from Chandigarh",
+    "highway": "NH 44",
+    "amenities": "Fuel station, food stalls",
+    "power": "Line proximity (~3 km)"
+  },
+  {
+    "name": "Sirhind East Truck Bay",
+    "lat": 30.65,
+    "lon": 76.38,
+    "distance": "~35 km from Chandigarh",
+    "highway": "NH 44",
+    "amenities": "Toilets, restaurants",
+    "power": "Sirhind Grid (~2 km)"
+  },
+  {
+    "name": "Khanna Mid-Point Truck Bay",
+    "lat": 30.71,
+    "lon": 76.13,
+    "distance": "~60 km from Chandigarh",
+    "highway": "NH 44",
+    "amenities": "Informal halt, parking",
+    "power": "Khanna Substation (~3.5 km)"
+  },
+  {
+    "name": "Ludhiana Outer Freight Stop",
+    "lat": 30.89,
+    "lon": 75.87,
+    "distance": "~85 km from Chandigarh",
+    "highway": "NH 44",
+    "amenities": "Major truck hub, loading docks",
+    "power": "Ludhiana Grid"
+  },
+  {
+    "name": "Phillaur Toll Lay-by",
+    "lat": 31.02,
+    "lon": 75.78,
+    "distance": "~95 km from Chandigarh",
+    "highway": "NH 44",
+    "amenities": "Fuel plaza, truck toilets",
+    "power": "Transformer nearby"
+  },
+  {
+    "name": "Jalandhar Bypass Truck Hub",
+    "lat": 31.32,
+    "lon": 75.57,
+    "distance": "~120 km from Chandigarh",
+    "highway": "NH 44",
+    "amenities": "Major truck zone, eateries",
+    "power": "Jalandhar Substation (~2 km)"
+  },
+  {
+    "name": "Batala Highway Stop",
+    "lat": 31.82,
+    "lon": 75.21,
+    "distance": "~160 km from Chandigarh",
+    "highway": "NH 3",
+    "amenities": "Small dhabas, night halt",
+    "power": "Grid visible"
+  },
+  {
+    "name": "Amritsar Truck Terminal",
+    "lat": 31.64,
+    "lon": 74.87,
+    "distance": "~180 km from Chandigarh",
+    "highway": "NH 3",
+    "amenities": "Formal stop, parking",
+    "power": "Amritsar Power Hub (~1.5 km)"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Badarpur Border Lay-by",
+    "lat": 28.49,
+    "lon": 77.3,
+    "distance": "~0 km from Delhi",
+    "highway": "NH 19",
+    "amenities": "Parking, small dhabas",
+    "power": "Tughlakabad Grid (~4 km)"
+  },
+  {
+    "name": "Palwal Bypass Rest Stop",
+    "lat": 28.14,
+    "lon": 77.33,
+    "distance": "~35 km from Delhi",
+    "highway": "NH 19",
+    "amenities": "Fuel, food court",
+    "power": "Palwal Substation (~2.5 km)"
+  },
+  {
+    "name": "Kosi Kalan Truck Bay",
+    "lat": 27.8,
+    "lon": 77.44,
+    "distance": "~70 km from Delhi",
+    "highway": "NH 44",
+    "amenities": "Fuel station, restrooms",
+    "power": "Kosi Substation (~3 km)"
+  },
+  {
+    "name": "Chhata Industrial Zone",
+    "lat": 27.72,
+    "lon": 77.51,
+    "distance": "~80 km from Delhi",
+    "highway": "NH 44",
+    "amenities": "Warehouses, open truck parking",
+    "power": "Feeder line nearby"
+  },
+  {
+    "name": "Vrindavan Way Station",
+    "lat": 27.58,
+    "lon": 77.69,
+    "distance": "~100 km from Delhi",
+    "highway": "NH 44",
+    "amenities": "Food plaza, toilets",
+    "power": "Vrindavan Power Grid (~2 km)"
+  },
+  {
+    "name": "Mathura Bypass Truck Halt",
+    "lat": 27.48,
+    "lon": 77.68,
+    "distance": "~110 km from Delhi",
+    "highway": "NH 44",
+    "amenities": "Heavy truck lay-by",
+    "power": "Mathura Substation (~3.5 km)"
+  },
+  {
+    "name": "Bajna Midway Point",
+    "lat": 27.32,
+    "lon": 77.77,
+    "distance": "~120 km from Delhi",
+    "highway": "Yamuna Expressway",
+    "amenities": "Fuel bunk, basic amenities",
+    "power": "Distribution transformer"
+  },
+  {
+    "name": "Raya Link Dhabha Cluster",
+    "lat": 27.25,
+    "lon": 77.83,
+    "distance": "~130 km from Delhi",
+    "highway": "Yamuna Expressway",
+    "amenities": "Night halt, food stalls",
+    "power": "Overhead lines (~2 km)"
+  },
+  {
+    "name": "Kuberpur Expressway Stop",
+    "lat": 27.16,
+    "lon": 78.04,
+    "distance": "~140 km from Delhi",
+    "highway": "Yamuna Expressway",
+    "amenities": "Rest area, toilet block",
+    "power": "Expressway power line nearby"
+  },
+  {
+    "name": "Agra Truck Terminal Outer Ring",
+    "lat": 27.18,
+    "lon": 78.09,
+    "distance": "~145 km from Delhi",
+    "highway": "NH 19",
+    "amenities": "Formal truck terminal",
+    "power": "Agra Grid (~2 km)"
+  }
+]
